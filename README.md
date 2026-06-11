@@ -1,0 +1,2 @@
+# NLP_LLM_SLM_Comparison_Project
+ÉtudecomparativeentreunSmallLanguageModelfine-tuné(DistilBERT)etunLLM (Llama-3.3-70B)pourclassifier6émotionssurledatasetdair-ai/emotion
